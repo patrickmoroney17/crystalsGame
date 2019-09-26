@@ -1,5 +1,13 @@
 # crystalGame
 
-This is the crystals game.  To play the game, open the index.html file in your browser.  Each crystal has an associated random value.  Click on a combination of crystals that adds up to the target number.  If you go over, you lose, if you match, you win.
+This is the crystals game.  
 
-Enjoy
+You will be given a random number at the start of the game.
+
+There are four crystals below. By clicking on the crystal you will add a specific of points to your total score.
+
+You win the game by matching your total score to random number, you lose the game if your total score goes above the random number.
+
+The value of each crystal is hidden from you until you click on it.
+
+Each time whon the game starts, the game will change the values of each crystal.
