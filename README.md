@@ -1,4 +1,4 @@
-# crystalGame
+# crystalsGame
 
 This is the crystals game.  
 
