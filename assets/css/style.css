@@ -1,0 +1,57 @@
+.head {
+    text-align: center;
+    font-size: 25px;
+    padding: 20px 0 20px 0;
+}
+
+.directions {
+    margin-top: 20px;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: antiquewhite;
+    color: green;
+}
+
+.winLossRow {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.winloss-Text {
+    background-color: cyan; 
+    color:black; 
+    height: 90px;
+    padding-top: 20px;
+}
+
+.crystalRow {
+    margin-top: 20px;
+}
+
+.crystal-1,
+.crystal-2,
+.crystal-3,
+.crystal-4 {
+    background-color: white;
+}
+
+.col-sm-3 {
+    background-color: cadetblue; 
+    color: black;
+}
+
+.yourScore {
+    margin-top: 20px;
+    color: white;
+}
+
+.runningTotal {
+    height: 60px;
+    margin-top: 20px;
+}
+
+#running-Total {
+    margin-left: 20px;
+    height: 60px;
+}
